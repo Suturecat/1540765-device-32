@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Андрей Котов](https://up.htmlacademy.ru/htmlcss/32/user/1540765).
-* Наставник: [Алим Нагоев] (https://htmlacademy.ru/profile/id911531)
+* Наставник: [Алим Нагоев](https://htmlacademy.ru/profile/id911531)
 
 ---
 
